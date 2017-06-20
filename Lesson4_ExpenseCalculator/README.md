@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(June 28th, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Tiffany Boyer)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment/lesson introduces the JavaScript programming Fundamentals and the building blocks of the language.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(totalExpenses = shelterAmt + foodAmt + YourVariable + YourVariable + YourVariable;)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Client-side programming is necessary in order to develope interactive/reactive pages. These programs are written in JavaScript, JScript and VBScript and are embedded into the HTML of a Web page. The HTML tags identify components. This communicates with the browser and allows the output of the program with the static content of the HTML.)
+2. (Script vs. Programs: a scripting language is a simple, interpreted programming language. The scripts are plain text that get interpreted by the application. This makes for simpler application, saves bandwidth, and ensures platform independence.)
+3. (Java & JavaScript are NOT the same. JavaScript is interpreted in the browser, while Java programs are compiled and can be run as stand alone applications.)
 
